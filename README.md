@@ -1,7 +1,7 @@
 # make-nav
 ## make navbar the old way and the new way
 
-- make a two navbars under each other with 4 links each
+- make a two navbars under each other seperated by a margin with 4 links each
 - using old way in one and modern way in the other
 - links should be spaced nicely and with no underlines
 - give navbars proper hight and if necessary width 100%
